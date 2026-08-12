@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "static-preview",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/private/tmp/claude-501/-Users-ciaradees-Desktop-AI-Websites-river-roads-roofing-llc-static/6d87943d-086b-41e5-a707-c111e6347bfa/scratchpad/static-server.js"],
+      "port": 8899
+    }
+  ]
+}
